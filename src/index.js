@@ -8,4 +8,4 @@ ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
 
 
-// git add . && git commit -m "cooit here" && git push && git status
+// git add . && git commit -m "creating a resume project, setting up for my awesome Resume" && git push && git status

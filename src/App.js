@@ -8,7 +8,7 @@ import Portfolio from './Components/Portfolio';
 import Testimonials from './Components/Testimonials';
 import Contact from './Components/Contact';
 import Footer from './Components/Footer';
-import main  from './Components/resumeData.json'
+import main  from './Components/resumeData.json';
 
 class App extends Component {
   constructor(props){

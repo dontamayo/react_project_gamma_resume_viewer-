@@ -19,9 +19,8 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-                  <p className="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                  eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                  voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                  <p className="lead">I like to learn and build new sites on different programming languages. I found Web developing as my hobby and I'm enjoying every bit of it. On the other side, It is overwhelming sometimes when working on countless hours but I found it rewarding once the apps is successfull and my codes are working. Learning is limitless, as long as I'm having fun creating sites, I will keep myself technology oriented and competetive.<br/>
+                  KEEP LEARNING!
                   </p>
 
             </div>
@@ -31,39 +30,10 @@ class Contact extends Component {
             <div className="eight columns">
 
                <form action="" method="post" id="contactForm" name="contactForm">
-					<fieldset>
 
-                  <div>
-						   <label htmlFor="contactName">Name <span className="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactName" name="contactName" />
-                  </div>
-
-                  <div>
-						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail" />
-                  </div>
-
-                  <div>
-						   <label htmlFor="contactSubject">Subject</label>
-						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject" />
-                  </div>
-
-                  <div>
-                     <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
-                  </div>
-
-                  <div>
-                     <button className="submit">Submit</button>
-                     <span id="image-loader">
-                        <img alt="" src="images/loader.gif" />
-                     </span>
-                  </div>
-
-					</fieldset>
 				   </form>
 
-               <div id="message-warning"> Error boy</div>
+               <div id="message-warning">Something went wrong, Try again</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
@@ -71,11 +41,11 @@ class Contact extends Component {
             </div>
 
 
-            <aside className="four columns footer-widgets">
 
                <div className="widget widget_contact">
 
 					   <h4>Address and Phone</h4>
+             <h5>Amazingmardon@gmail.com</h5>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
@@ -86,12 +56,14 @@ class Contact extends Component {
 				   </div>
 
 
-            </aside>
+          
       </div>
 
    </section>
     );
   }
 }
+
+
 
 export default Contact;

@@ -2,9 +2,9 @@
    "main":{
       "name":"Don Aldrich Tamayo",
       "occupation":"Web developer, Programmer, Entrepreneur",
-      "description":"I'm currently studying at Galvanize as a Web Developer Immersive.I design and program websites and web applications of all types. ",
-      "image":"../images/profile.png",
-      "bio":"Greetings! My name is Don's and I am an aspiring Full Stack Web Developer. Experienced in  Affiliate Marketing, Drop Shipping and many more.I studied Bachelor of Theology and have worked in Philippines as a Pastor and a Teacher. I started making Websites using Wordpress, monetizing them and using it to advertise my products.  This was the beginning of my interest in Web Development. I hope to graduate as a Full Stack Developer this year 2018 at Galvanize NYC. I've found Galvanize  to be very helpful to pursue my goal. I love to learn and self study, kudos to Team Tree House and Udemy for my self study online, without them I can't fully grasp all the details of my courses",
+      "description":"I'm currently studying at Galvanize as a Full-Stack Web Developer.I design and program websites and web applications of all types. ",
+      "image":"../images/profile.jpg",
+      "bio":"Greetings! My name is Don and I'm a Full Stack Web Developer. Experienced in  Affiliate Marketing, Drop Shipping and many more.I studied Bachelor of Theology and have worked in Philippines as a Pastor and a Teacher. I started making Websites using Wordpress, monetizing them and using it to advertise my products.  This was the beginning of my interest in Web Development. I hope to graduate as a Full Stack Developer this year 2018 at Galvanize NYC. I've found Galvanize  to be very helpful to pursue my goal. I love to learn and self study, kudos to Team Tree House and Udemy for my self study online, without them I can't fully grasp all the details of my courses",
       "email":"donaldrichweb@gmail.com",
       "phone":"862-686-7192",
       "address":{
@@ -18,18 +18,8 @@
       "social":[
          {
             "name":"facebook",
-            "url":"https://www.facebook.com/donaldrich.tamayo",
+            "url":"https://www.facebook.com/Don-Aldrich-328936380960462/",
             "className":"fa fa-facebook"
-         },
-         {
-            "name":"twitter",
-            "url":"http://twitter.com",
-            "className":"fa fa-twitter"
-         },
-         {
-            "name":"google-plus",
-            "url":"http://googleplus.com",
-            "className":"fa fa-google-plus"
          },
          {
             "name":"linkedin",
@@ -37,42 +27,33 @@
             "className":"fa fa-linkedin"
          },
          {
-            "name":"instagram",
-            "url":"http://instagram.com",
-            "className":"fa fa-instagram"
-         },
-         {
             "name":"github",
             "url":"https://github.com/webbydon29",
             "className":"fa fa-github"
-         },
-         {
-            "name":"skype",
-            "url":"http://skype.com",
-            "className":"fa fa-skype"
          }
+
       ]
    },
    "resume":{
       "education":[
          {
             "school":"Galvanize",
-            "degree":"Web Developer Immersive",
+            "degree":"Full Stack Web Developer",
             "graduated":"April 2018",
-            "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
-         },
+            "description":"I studied at Galvanize NYC as a Web Developer for six months five days a week excluding homeworks and countless hours of self study online and coaching. Galvanize is a dynamic Learning Community, network, education, workspace and technology."
+          },
          {
             "school":"Ashworth College",
             "degree":"Online Web Design",
             "graduated":"May 2012",
-            "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
-         },
+            "description":"I enrolled at Ashworth as a Web Developer, I didn't finished my Course but I difinetely learned a lot from them and prepared me to grow my skills and always hungry for new technologies and to grow my passion in Software developing."
+          },
          {
-            "school":"Northern Luzon Adventist College",
+            "school":"Northern Luzon Adventist College, Philippines",
             "degree":"Bachelor of Arts in Theology",
-            "graduated":"March 2011",
-            "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
-         }
+            "graduated":"March 2005-2009",
+            "description":"NLAC is a School the prepares for life, I learned a lot from this school, not as a Computer Science nor a Information Technology But a Bachelor of Theology, and yes, I have the passion to serve my Church and God. I became one of the student President in my school, teaching and leading my schoolmate in a religious way of life. I served as a Pastor of Seventh-Day Adventist Church and a Teacher of History and Religion."
+          }
       ],
       "work":[
          {
